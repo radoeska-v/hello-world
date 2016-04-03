@@ -1,1 +1,2 @@
-Jas sum mala datoteka.
+Je sum mala datoteka.
+Sega sum malku pogolema datoteka.
